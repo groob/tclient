@@ -1,0 +1,4 @@
+build/
+tclient
+build-linux-amd64
+build-darwin-amd64
